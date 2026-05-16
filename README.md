@@ -35,7 +35,10 @@ This project performs a comprehensive exploratory data analysis (EDA) on the **U
 ### Product Profitability (Net Revenue)
 ![Net Revenue](top_products_net.png)
 
-### International Market Trends
-![International](international_sales_analysis.png)
+### Loss and Expenses
+![Expense](detailed_loss_analysis_v3.png)
+
+### Service Fees
+![Fee](service_fee_distribution.png)
 
 ---
