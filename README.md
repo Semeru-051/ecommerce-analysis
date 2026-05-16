@@ -30,15 +30,15 @@ This project performs a comprehensive exploratory data analysis (EDA) on the **U
 ## 🖼️ Visualizations
 
 ### Sales Dashboard
-![Dashboard](online_retail_gross.png)
+![Dashboard](docs/online_retail_gross.png)
 
 ### Product Profitability (Net Revenue)
-![Net Revenue](top_products_net.png)
+![Net Revenue](docs/top_products_net.png)
 
 ### Loss and Expenses
-![Expense](detailed_loss_analysis_v3.png)
+![Expense](docs/detailed_loss_analysis_v3.png)
 
 ### Service Fees
-![Fee](service_fee_distribution.png)
+![Fee](docs/service_fee_distribution.png)
 
 ---
