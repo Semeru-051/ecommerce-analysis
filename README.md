@@ -3,10 +3,10 @@
 # 📊 Online Retail Sales Analysis
 
 ## 📝 Project Overview
-This project performs a comprehensive exploratory data analysis (EDA) on the **UCI Online Retail Dataset**. The goal is to transform raw transactional data into actionable business intelligence, focusing on sales performance, customer behavior, and operational efficiency.
+This project performs a comprehensive exploratory data analysis (EDA) on the **UCI Online Retail Dataset**. The goal is to transform raw transactional data into actionable business intelligence.
 
 ## 🛠️ Tech Stack
-- **Language:** Python 3.x
+- **Language:** Python
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
 - **Environment:** Google Colab / Jupyter Notebook
 
